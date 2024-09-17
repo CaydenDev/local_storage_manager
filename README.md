@@ -12,4 +12,4 @@ A simple and efficient JavaScript library designed to make managing browser Loca
 
 ## Getting Started
 
-Go to the Documentation (Wiki) for all Information!
+Go to the [Documentation](https://slimwiki.com/uxhlscsin/getting-started-0sgg7j8vti/untitledlocal-storage-manager-documentation-ekpjbs1gcw-uhzkdjsbqxqb) for all Information!
